@@ -21,8 +21,8 @@ This project analyzes customer purchasing behavior, sales trends, and customer s
 
 ## Dashboard Screenshots
 
-### Overview Dashboard
-![Overview](screenshots/dashboard-overview.png)
+### Dashboard
+![Dashboard](dashboard_customer.png)
 
 
 ## Project Files
